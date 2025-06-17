@@ -1,4 +1,5 @@
-package Activities;
+package activities;
+
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -26,3 +27,4 @@ public class TestActivity2 {
 		driver.close();
 	}
 }
+
