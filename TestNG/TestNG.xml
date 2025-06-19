@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite parallel="classes" name="Suite" thread-count="3">
+
+	<run>
+		<include name="HeaderTests"/>>
+	</run>
+
+  <test name="Test">
+    <classes>
+      <class name = "activities.TestActivity_1"/>
+      <class name = "activities.TestActivity_2"/>
+      <class name = "activities.TestActivity_5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
